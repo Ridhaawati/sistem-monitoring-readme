@@ -30,7 +30,7 @@ Politeknik Hasnur
 
 ## 🛠️ Teknologi yang Digunakan
 
-- ⚙️ Laravel 10
+- ⚙️ Laravel 12
 - 🗄️ MySQL
 - 💅 Tailwind CSS
 - 🗃️ Laravel File Storage
