@@ -1,4 +1,4 @@
-# 🗂️ Sistem Informasi Project Monitoring Sederhana
+# 🗂️ Sistem Informasi Project Monitoring
 
 [![Laravel](https://img.shields.io/badge/Laravel-10-red?logo=laravel)](https://laravel.com/)
 [![PHP](https://img.shields.io/badge/PHP-8.1-blue?logo=php)](https://www.php.net/)
